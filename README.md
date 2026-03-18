@@ -1,6 +1,7 @@
 Security Engineer.
 
-Current Interest: Building slop filters for AI-assisted development. 
+Current Interests:
+- Building slop filters for AI-assisted development.
 
 ### What I'm working on:
 
